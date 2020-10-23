@@ -50,6 +50,3 @@ const findAndDelete = function (id) {
     items,
     hideCheckedItems
   };
-
-
-
